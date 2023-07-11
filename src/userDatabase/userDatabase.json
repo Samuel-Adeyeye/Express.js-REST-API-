@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Janet",
+    "username": "damesel324",
+    "email": "jane@gmail.com",
+    "password": "$2b$12$koZlGyIKSEO8/1nF0YyycueS09CeUNX1qbwhoYEVd/4KSBaqhAj.q",
+    "id": "e0b9132d-7d8a-4795-a1f6-859ab0a00480",
+    "createdAt": "2023-06-29T14:09:54.926Z"
+  },
+  {
+    "name": "Musialla",
+    "username": "bayern",
+    "email": "muse@gmail.com",
+    "password": "$2b$12$24fWQjMElv72hkqBeI6UbeDF2xm5Cb9r/E6cE0Q7hk/XprNOed2uW",
+    "id": "06283755-e2fc-421e-b0ae-72114546a025",
+    "createdAt": "2023-06-29T14:31:33.577Z"
+  },
+  {
+    "name": "jamialla",
+    "username": "Jamal",
+    "email": "jayjay@mail.com",
+    "password": "$2b$12$3h3a890kKLusjdFkBvFkIuaTZ297beuM3N9w/sXFZqPOkYah51xqG",
+    "id": "11d4f5cb-bc56-4425-9f8f-a1e2758c64a0",
+    "createdAt": "2023-06-29T14:49:31.720Z"
+  },
+  {
+    "name": "jamal",
+    "username": "Jamaline",
+    "email": "jay@mail.com",
+    "password": "$2b$12$l8nA92eyALnWRygdrUpod.dUsfQ9K1t2vSADVB4q11Xc5ErVz3s56",
+    "id": "97e26d6c-d9ab-4756-b9f4-75ae1bab8d3e",
+    "createdAt": "2023-07-11T14:30:11.097Z"
+  }
+]
